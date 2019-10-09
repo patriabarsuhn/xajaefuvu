@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohjahwaeth.groovy.org.uk/sitemap.xml
